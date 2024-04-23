@@ -39,5 +39,5 @@ If you find KFRAD useful in your research, please consider citing:
 
 ```
 ## Contact
-If you have any questions, please contact [wuyan7958@foxmail.com](wuyan7958@foxmail.com), [yuanzhong@scu.edu.cn](yuanzhong@scu.edu.cn).
+If you have any questions, please contact [wuyan7958@foxmail.com](wuyan7958@foxmail.com) or [yuanzhong@scu.edu.cn](yuanzhong@scu.edu.cn).
 
