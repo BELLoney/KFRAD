@@ -36,7 +36,13 @@ out_scores =
 ## Citation
 If you find KFRAD useful in your research, please consider citing:
 ```
-
+@article{wu2024kernelized,
+  title={Kernelized Fuzzy-Rough Anomaly Detection},
+  author={Wu, Yan and Wang, Sihan and Chen, Hongmei and Peng, Dezhong and Yuan, Zhong},
+  journal={IEEE Transactions on Fuzzy Systems},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 ## Contact
 If you have any questions, please contact [wuyan7958@foxmail.com](wuyan7958@foxmail.com) or [yuanzhong@scu.edu.cn](yuanzhong@scu.edu.cn).
